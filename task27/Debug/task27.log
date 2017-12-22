@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  GraphNumbering.cpp
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task27\task27\graphnumbering.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task27\task27\graphnumbering.cpp(216): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\morga\documents\visual studio 2015\projects\2course\tasks\task27\task27\graphnumbering.cpp(225): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  task27.vcxproj -> C:\Users\morga\Documents\Visual Studio 2015\Projects\2course\tasks\task27\Debug\task27.exe
